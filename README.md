@@ -1,7 +1,12 @@
-# Predicting Bank Account Opening
-This is a documenation about deep learning project to predict if a customer would create a new account or not, with Tensorflow.
+# Predicting Bank Marketing Outcome
+This is a documenation about deep learning project to predict if a customer would subsribe a term deposit of a bank or not, with Tensorflow.
 
 ## 1. Project Overview
+* Project Objective
+   * Prediction based on the classification with logistic regression
+   * Target Feature
+      * y: has the client subscribed a term deposit? 
+      * value: binary(yes or no)
 
 * About the Dataset
     * Dataset from UCI Machinie Learning Repository.
@@ -13,6 +18,8 @@ This is a documenation about deep learning project to predict if a customer woul
     * Please refer to the attribute information at: https://archive.ics.uci.edu/ml/datasets/bank+marketing
     
 ## 2. Data Pre-processing
+
+ * 
 
 ## 3. Modeling
 
