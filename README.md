@@ -15,12 +15,16 @@ This is a documenation about deep learning project to predict if a customer woul
     * 41188 rows with 20 columns.
 
 * About the features
-    * Please refer to the attribute information at: https://archive.ics.uci.edu/ml/datasets/bank+marketing
+    * Please refer to the attribute information [here](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
     
 ## 2. Data Pre-processing
 
- * 
-
+ * The target feature was encoded 1 and 0.
+ * Categorical varibles were all transformed into dummy variables.
+ * Insignificant features detected were removed as per the model summary result on logidtic regression by R. 
+ * Insignificant featuers again removed as per the result of correlation plot by R. 
+ * All numerical features standardized by Standard Scaler by 'sklearn'.
+    
 ## 3. Modeling
 
 ## 4. Optimizing the Model
