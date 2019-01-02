@@ -27,6 +27,16 @@ This is a documenation about deep learning project to predict if a customer woul
     
 ## 3. Modeling
 
-## 4. Optimizing the Model
+![image](https://user-images.githubusercontent.com/46237445/50608069-b1e45200-0f0e-11e9-8294-d8716e43876f.png)
+
+  * 9 input variables
+  * K input between hidden layers
+  * 1 output variable
+  * Xavier Initializer
+  * Leaky ReLU/ReLU & Sigmoid
+  * AdamOptimizer
+  * Cost function for logistic regression
+
+## 4. Model Optimization
 
 ## 5. Conclusion
