@@ -24,6 +24,7 @@ This is a documenation about deep learning project to predict if a customer woul
  * Insignificant features detected were removed as per the model summary result on logidtic regression by R. 
  * Insignificant featuers again removed as per the result of correlation plot by R. 
  * All numerical features standardized by Standard Scaler by 'sklearn'.
+ * Training set and test set of 8:2 ratio.
     
 ## 3. Modeling
 
