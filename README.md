@@ -41,8 +41,8 @@ This is a documenation about deep learning project to predict if a customer woul
 
   * Hyper Parameters
 Hyper Parameters | value |
----- | ---- |
-Learning Rate| 0.003 |
+:--------------: | :---: |
+Learning Rate | 0.003 |
 Dropout Rate | 0.5 ~ 0.7 |
 Threshold | 0.65 |
 Number of Layers | 5 ~ 7|
