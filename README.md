@@ -1,5 +1,5 @@
 # Predicting Bank Marketing Outcome
-This is a documenation about deep learning project to predict if a customer would subsribe a term deposit of a bank or not, with Tensorflow.
+A deep learning project to predict if a customer would subsribe a term deposit of a bank or not with Tensorflow in Principles and Practice in Data Mining (Fall 2017)
 
 ## 1. Project Overview
 * Project Objective
