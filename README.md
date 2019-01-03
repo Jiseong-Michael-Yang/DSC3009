@@ -56,7 +56,8 @@ This is a documenation about deep learning project to predict if a customer woul
   ![image](https://user-images.githubusercontent.com/46237445/50656796-af016400-0fd7-11e9-9854-6fbb7c7d545c.png)
    
   * Hyperparameter Tunning
-    * The best performance with 6 layers, 45 inputs and the dropout rate of 0.6.
+    * The accuracy ranges from 0.88 ~ 0.91
+    * The highest accuarcy was 0.9114 with 6 layers, 45 inputs and the dropout rate of 0.6.
   
   ![image](https://user-images.githubusercontent.com/46237445/50657041-92196080-0fd8-11e9-8002-c21bcdc5fe40.png)
   
@@ -69,5 +70,3 @@ This is a documenation about deep learning project to predict if a customer woul
   * Further Improvements
     * Batch traning would allows us to efficiently reduce the cost value and the accuracy
     * Visualization of the training process with Tensorboard
-  
-  * 
