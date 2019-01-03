@@ -19,7 +19,7 @@ This is a documenation about deep learning project to predict if a customer woul
     
 ## 2. Data Pre-processing
 
- * The target feature was encoded 1 and 0.
+ * The target feature was encoded {yes: 1, no: 0}.
  * Categorical varibles were all transformed into dummy variables.
  * Insignificant features detected were removed as per the model summary result on logidtic regression by R. 
  * Insignificant featuers again removed as per the result of correlation plot by R. 
@@ -50,4 +50,16 @@ This is a documenation about deep learning project to predict if a customer woul
     Number of Inputs | 27 ~ 45 |
     Iterations | 1000 |
     
+  * Finding the Optimal Cutoff Value (ROC Curve)
+  
+  ![image](https://user-images.githubusercontent.com/46237445/50656792-ac067380-0fd7-11e9-85a7-9ee93260c992.png)
+  ![image](https://user-images.githubusercontent.com/46237445/50656796-af016400-0fd7-11e9-9854-6fbb7c7d545c.png)
+  
+    * Optimal cutoff value of 0.65
+    
+  * Hyperparameter Tunning
+  
+  ![image](https://user-images.githubusercontent.com/46237445/50657041-92196080-0fd8-11e9-8002-c21bcdc5fe40.png)
+  
+    * The best performance with 6 layers, 45 inputs and dropout rate of 0.6.
 ## 5. Conclusion
