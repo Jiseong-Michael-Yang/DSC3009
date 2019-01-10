@@ -64,10 +64,10 @@ A deep learning project to predict if a customer would subsribe a term deposit o
     * The accuracy ranges from 0.88 ~ 0.91
     * The highest accuarcy was 0.9114 with 6 layers, 45 inputs and the dropout rate of 0.6.
   
-    <center>
-    <img src = https://user-images.githubusercontent.com/46237445/50657041-92196080-0fd8-11e9-8002-c21bcdc5fe40.png width = 400> 
-    </center>
-  
+      <center>
+      <img src = https://user-images.githubusercontent.com/46237445/50657041-92196080-0fd8-11e9-8002-c21bcdc5fe40.png width = 400> 
+      </center>
+
 ## 5. Conclusion
 
   * The Sinnificance of the Project 
