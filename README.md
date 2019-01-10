@@ -28,7 +28,9 @@ A deep learning project to predict if a customer would subsribe a term deposit o
     
 ## 3. Modeling
 
-![image](https://user-images.githubusercontent.com/46237445/50608069-b1e45200-0f0e-11e9-8294-d8716e43876f.png)
+<center>
+<img src = https://user-images.githubusercontent.com/46237445/50608069-b1e45200-0f0e-11e9-8294-d8716e43876f.png width = 400>
+</center>
 
   * 9 input variables
   * K input between hidden layers
@@ -54,13 +56,17 @@ A deep learning project to predict if a customer would subsribe a term deposit o
   * Finding the Optimal Cutoff Value (ROC Curve)
     * Optimal cutoff value of 0.65
   
-  ![image](https://user-images.githubusercontent.com/46237445/50656796-af016400-0fd7-11e9-9854-6fbb7c7d545c.png)
-   
+    <center>
+    <img src = https://user-images.githubusercontent.com/46237445/50656796-af016400-0fd7-11e9-9854-6fbb7c7d545c.png width = 400>
+    </center> 
+
   * Hyperparameter Tunning
     * The accuracy ranges from 0.88 ~ 0.91
     * The highest accuarcy was 0.9114 with 6 layers, 45 inputs and the dropout rate of 0.6.
   
-  ![image](https://user-images.githubusercontent.com/46237445/50657041-92196080-0fd8-11e9-8002-c21bcdc5fe40.png)
+    <center>
+    <img src = https://user-images.githubusercontent.com/46237445/50657041-92196080-0fd8-11e9-8002-c21bcdc5fe40.png width = 400> 
+    </center>
   
 ## 5. Conclusion
 
