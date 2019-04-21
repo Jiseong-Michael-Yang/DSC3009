@@ -70,7 +70,7 @@ A deep learning project to predict if a customer would subsribe a term deposit o
 
 ## 5. Conclusion
 
-  * The Sinnificance of the Project 
+  * The Significance of the Project 
     * Bank profit = loan interest - deposit interest
     * Optimize the profit by offering customized financial product
     
